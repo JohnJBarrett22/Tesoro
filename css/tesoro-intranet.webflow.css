@@ -1,0 +1,24 @@
+.section {
+  min-height: 100vh;
+}
+
+.navbar {
+  position: absolute;
+  left: 0px;
+  width: 250px;
+  height: 100vh;
+  padding-top: 25px;
+}
+
+.nav-link {
+  display: block;
+}
+
+.nav-link-2 {
+  display: block;
+}
+
+.nav-menu {
+  margin-right: auto;
+  margin-left: auto;
+}
