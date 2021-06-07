@@ -53,3 +53,9 @@
 .nav_link {
   padding: 7px;
 }
+
+.image {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
